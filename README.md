@@ -59,20 +59,18 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40">
   </a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Sagar5426/Sagar5426/assets/108585817/c0150336-6434-4838-9245-7ab7de8bcbde" alt="Xcode" width="40" height="40">
 </a>
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar5426&show_icons=true&locale=en&layout=compact" alt="sagar5426">
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar5426&show_icons=true&locale=en&layout=compact" alt="sagar5426" ,align = "left" >
+  <img src="https://github-readme-stats.vercel.app/api?username=sagar5426&show_icons=true&locale=en" alt="sagar5426", align="right">
+</div>
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagar5426&show_icons=true&locale=en" alt="sagar5426">
-</p>
-
-<p align="center">
+<div align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar5426&" alt="sagar5426">
-</p>
+</div>
