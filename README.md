@@ -4,7 +4,7 @@
   <img alt="Coding" src="https://github.com/Sagar5426/Sagar5426/assets/108585817/497dd06f-e595-45d0-aac4-bd4ae06fccd2">
 </p>
 
-<h3 align="center">A Passionate iOS Developer</h3>
+<h3 align="center">Swift | SwiftUI</h3>
 
 <p align="right">
   <img align="right" alt="Coding" width="400" src="https://www.targeticon.com/images/GIF/JS-Stack-Development.gif">
