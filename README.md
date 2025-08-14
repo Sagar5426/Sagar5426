@@ -64,10 +64,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar5426&show_icons=true&locale=en&layout=compact" alt="sagar5426" ,align = "left" >
-  <img src="https://github-readme-stats.vercel.app/api?username=sagar5426&show_icons=true&locale=en" alt="sagar5426", align="right">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar5426&" alt="sagar5426">
 </div>
 <br><br>
 
-<div align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar5426&" alt="sagar5426">
-</div>
